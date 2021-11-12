@@ -1,0 +1,21 @@
+<resources>
+
+    <declare-styleable name="AdView">
+        <attr format="string" name="adstype"/>
+        <attr format="string" name="adswidth"/>
+        <attr format="string" name="adsheight"/>
+    </declare-styleable>
+
+    <declare-styleable name="VideoAdView">
+        <attr format="string" name="adtype"/>
+        <attr format="string" name="adwidth"/>
+        <attr format="string" name="adheight"/>
+    </declare-styleable>
+
+    <string name="app_name">Appsmonetizesdk</string>
+
+
+
+
+
+</resources>

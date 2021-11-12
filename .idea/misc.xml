@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Office/AdsPractice/SDK/src/main/res/drawable/native_corners.xml" value="0.2203125" />
+        <entry key="..\:/Office/AdsPractice/SDK/src/main/res/layout/ad_view_custom.xml" value="0.20416666666666666" />
+        <entry key="..\:/Office/AdsPractice/SDK/src/main/res/layout/custom_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Office/AdsPractice/SDK/src/main/res/layout/fragment_banner_ads.xml" value="0.20416666666666666" />
+        <entry key="..\:/Office/AdsPractice/SDK/src/main/res/layout/fragment_native_ads.xml" value="0.19010416666666666" />
+        <entry key="..\:/Office/AdsPractice/SDK/src/main/res/layout/style_adview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Office/AdsPractice/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Office/AdsPractice/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
